@@ -14,9 +14,16 @@
 - Validation
 - Lombok
 - Java Email Sender
+- RabbitMQ
 
 
 <hr/>
+
+## Projeto
+
+- Implementação de um microserviço para envio de emails.
+- Sistema de comunicação assíncrona com RabbitMQ
+- Arquitetura Hexagonal
 
 
 ### Projeto em andamento...

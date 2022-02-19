@@ -17,14 +17,14 @@
 - RabbitMQ
 
 
-<hr/>
-
 ## Projeto
 
 - Implementação de um microserviço para envio de emails.
 - Sistema de comunicação assíncrona com RabbitMQ
-- Arquitetura Hexagonal
 
+## Falta implementar
+
+- Arquitetura Hexagonal
 
 ### Projeto em andamento...
  
